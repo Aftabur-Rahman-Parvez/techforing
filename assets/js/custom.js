@@ -20,8 +20,7 @@ $(document).ready(function(){
   })
 
   AOS.init({
-    easing: 'ease-out-back',
-    duration: 1000
+    
   });
 
     jQuery("#feature_testimonial_carosule").owlCarousel({
